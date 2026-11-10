@@ -1,2 +1,2 @@
 My Project
-Status: Initial
+Status: Registration Feature
