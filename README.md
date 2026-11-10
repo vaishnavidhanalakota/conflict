@@ -1,2 +1,2 @@
 My Project
-Status: Registration Feature
+Status: Registration and Search Features
